@@ -1,0 +1,632 @@
+@import url('https://fonts.googleapis.com/css2?family=Blinker:wght@100;200;300;400;600;700;800;900&display=swap');
+html{
+    scroll-behavior: smooth;
+    padding-right: 0px;
+}
+.row {
+    --bs-gutter-x: 0rem
+}
+a{
+    color: white !important;
+}
+body{
+    background-color:black;
+    z-index: -1;
+}
+
+.titulo h1{
+    color: white;
+    font-size: 61px;
+    font-weight: bold;
+    font-family: 'Blinker', sans-serif;
+}
+
+.parrafito{
+    padding-right: 40%;
+}
+.parrafito p{
+    color: white;
+    font-size: 41px;
+    line-height: 50px;
+    font-family: 'Blinker', sans-serif;
+}
+.navbar-toggler-icon {
+    color: white;
+    background-color: white;
+}
+
+
+.botoncito button{
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    background: black;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+.navbar>.container-fluid{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.logo{
+    font-size: 27px;
+    font-weight: 600;
+    font-family: 'Blinker', sans-serif;
+}
+
+.navbar-nav .nav-link.active{
+    font-size: 16px;
+    font-weight: 200;
+    font-family: 'Blinker', sans-serif;
+}
+
+.navbar-expand-lg .navbar-nav {
+    padding-left: 6%;
+}
+
+.primera-plana{
+    padding-left: 14%;;
+}
+
+.luna-boton{
+    color: white;
+    background: black;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+.navbar>.container-fluid{
+    padding-top: 15px;
+}
+
+
+
+
+
+.titulo2 h2{
+    
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Blinker', sans-serif;
+}
+
+
+.vuamos{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.parrafito2{
+    color: white;
+    font-size: 30px;
+    line-height: 40px;
+    font-family: 'Blinker', sans-serif;
+    font-weight: 100;
+}
+
+
+.botoncito2 button{
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    background: black;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+.botoncito2{
+    padding-top: 15px;
+}
+
+.primera-nasi{
+    padding-top: 20%;
+}
+
+.navbar-toggler-icon{
+    color: white;
+}
+
+
+.asientito{
+    padding-top: 10%;
+    padding-left: 11%;
+    padding-right: 5%;
+    background: url(../img/aaa.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+
+.titulo3 h2{
+    
+    color: white;
+    font-size: 50px;
+    font-weight: 200px;
+    font-family: 'Blinker', sans-serif;
+}
+
+
+.precion{
+    color: #FE5000;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Blinker', sans-serif;
+
+}
+
+.clp{
+    display: flex;
+}
+.clp1{
+    color: #FE5000;
+    padding-top: 3.5%;
+    font-size: 20px;
+}
+
+.preciot{
+    color:white;
+    font-size: 40px;
+    font-weight: 300px;
+    font-family: 'Blinker', sans-serif;
+    text-decoration: line-through;
+}
+.clp2{
+    color: white;
+    padding-top: 2%;
+    font-size: 20px;
+    text-decoration: line-through;
+}
+
+.parrafito3{
+    color: white;
+    font-size: 30px;
+    line-height: 40px;
+    font-family: 'Blinker', sans-serif;
+    font-weight: 100;
+    padding-right: 40%;
+    padding-bottom: 5%;
+}
+
+.botoncito3 button{
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    background: #FE5000;
+    border: 1px solid #FE5000;
+    border-radius: 10px;
+    width: 170px;
+}
+
+
+
+.boton-largo{
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 15%;
+}
+
+.botoncito4 button{
+    padding: 10px;
+    font-weight: 600;
+    color: white;
+    background: black;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.titulo4 h2{
+    
+    color: white;
+    font-size: 50px;
+    font-weight: 200px;
+    font-family: 'Blinker', sans-serif;
+    padding-bottom: 5%;
+}
+
+.socios{
+    background: url(../img/Grupo\ de\ desplazamiento\ 5.png);
+    text-align: center;
+    height: 566px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+   
+}
+
+
+
+.astro{
+    width: 100%;
+    height: 100%;
+}
+
+.titulo5 h2{
+    
+    color: white;
+    font-size: 50px;
+    font-weight: 200;
+    font-family: 'Blinker', sans-serif;
+    
+}
+
+.titulo6 h2{
+    
+    color: #FE5000;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: 'Blinker', sans-serif;
+    padding-bottom: 5%;
+}
+
+.parrafito5{
+    color: white;
+    font-size: 30px;
+    line-height: 40px;
+    font-family: 'Blinker', sans-serif;
+    font-weight: 100;
+}
+
+.navegar{
+    text-align: center;
+    
+}
+
+.navegar a{
+    text-decoration: none;
+}
+
+.navegar p{
+    color: white;
+}
+
+
+
+
+.subscribete{
+    display: flex;
+    padding-top: 2%;
+    padding-left: 5%;
+}
+
+
+.logo2 h2{
+    color: #1D00FF;
+    font-size: 80px;
+    font-weight: 700;
+    font-family: 'Blinker', sans-serif;
+}
+
+.sub button {
+    padding-left: 10px;
+    width: 149px;
+    height: 60px;
+    font-size: 23px;
+    font-family: 'Blinker', sans-serif;
+    font-weight: 600;
+    color: #2866AD;
+    border: 2px solid #2866AD;
+    padding-right: 10px;
+}
+
+.caja{
+    color: black;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    width: 375px;
+    border-radius: 6px;
+}
+
+
+.lol{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+.lol2{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+    padding-top: 2%;
+
+}
+
+
+.footer{
+    background: url(../img//fu.png);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-top: 2px solid white;
+    padding-left: 8%;
+}
+
+.nav-item ul li a{
+    color: #2866AD;
+}
+
+h5{
+    color: #2866AD;
+}
+
+.duoccc h2{
+    color: #1D00FF;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Blinker', sans-serif;
+}
+
+.copi h3{
+    color: white;
+    font-size: 15px;
+    padding-left: 10%;
+}
+
+.medi h3{
+    color: white;
+    font-size: 15px;
+}
+
+.icons{
+    font-size: 30px;
+    color: white;
+}
+
+.wea-final{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+.linea{
+    margin-left: 150px;
+    width: 70%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border: 1px solid white;
+}
+
+.astronautas{
+   
+    text-align: center;
+    align-items: center;
+    
+    padding-bottom: 10%;
+    
+}
+
+.padi{
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+.naziii{
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+
+.ttienda h2{
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Blinker', sans-serif;
+    
+
+}
+
+.tt{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+
+.ulala{
+    padding-bottom: 5%;
+}
+
+
+.card-body{
+    background-color:black ;
+}
+
+.card-body h5{
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Blinker', sans-serif;
+}
+
+.clp12{
+    color: #FE5000;
+    padding-top: 11%;
+    font-size: 20px;
+}
+
+
+.trepa{
+    padding-top: 7%;
+}
+
+.trepanave{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.trepa h6{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Blinker', sans-serif;
+}
+
+.tienda h6{
+    color: #FE5000;
+
+}
+
+.produ{
+    color: white;
+}
+.ttienda{
+    color: white;
+}
+
+
+.tabla-p{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.tabla-p p {
+    padding-top: 5%;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Blinker', sans-serif;
+}
+
+.tabla-nave{
+    background-color: white;
+   width: 80%;
+   margin-bottom: 5%;
+
+}
+.tabla-p h6 {
+    padding-top: 5%;
+    color: black;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Blinker', sans-serif;
+}
+
+.fnegro{
+    background-color: black;
+}
+
+
+.chek{
+    left: 100px;
+    padding-top: 30%;
+}
+
+
+.lp{
+    background: url(../img/nave.png);
+    text-align: center;
+    height: 566px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 1200px;
+}
+.cuadron{
+    background-color: #707070;
+    border: 2px solid black;
+    width: 40px;
+    height: 40px;
+    margin-right: 2%;
+}
+
+.cuadro{
+    border: 2px solid black;
+    width: 40px;
+    height: 40px;
+    margin-right: 2%;
+}
+.cuadro2{
+    border: 2px solid black;
+    width: 40px;
+    height: 40px;
+    margin-right: 2%;
+}
+.cuadro3{
+    border: 2px solid black;
+    width: 40px;
+    height: 40px;
+    margin-right: 2%;
+}
+.chekuwu{
+    padding-top: 5%;
+    padding-left: 64%;
+}
+
+
+.primerac{
+    background-color: greenyellow;
+}
+
+.segundaa{
+    background-color: #FF32AA;
+}
+
+.tercera{
+    background-color:  #8900FE;
+}
+
+.cuadrao{
+    background-color: greenyellow;
+        width: 45px;
+        height: 40px;
+        margin-right: 2%;
+        margin-top: 4%;
+}
+
+.cuadrao2{
+    background-color: #FF32AA;
+        width: 45px;
+        height: 40px;
+        margin-right: 2%;
+        margin-top: 4%;
+}
+
+.cuadrao3{
+    background-color: #8900FE;
+        width: 45px;
+        height: 40px;
+        margin-right: 2%;
+        margin-top: 4%;
+}
+
+.cuadrao4{
+    background-color: #707070;
+        width: 45px;
+        height: 40px;
+        margin-right: 2%;
+        margin-top: 4%;
+}
+
+
+
+
+.sueño button{
+    width: 70%;
+    padding: 10px;
+    font-weight: 600;
+    color: white;
+    background: #FE5000;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding-left: 6%;
+    padding-right: 5%;
+   margin-top: 5%;
+}
+
+.oli{
+    padding-left: 1%;
+}
